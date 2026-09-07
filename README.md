@@ -1,6 +1,6 @@
 Computer Science student @ UTEP (GPA 4.0/4.0) · Founder of EasyTap
 
-I'm a Computer Science major who likes building things people actually use. Alongside school, I founded and run EasyTap, a technology company delivering web development, NFC solutions, and workflow automation to businesses across Guanajuato and Querétaro, Mexico — growing since formalizing operations in mid-2026.
+I'm a Computer Science major who likes building things people actually use. Alongside school, I founded and run EasyTap, a technology company delivering web development, NFC solutions, and workflow automation to businesses across Guanajuato and Querétaro, Mexico growing since formalizing operations in mid-2026.
 
 What I work on
 
