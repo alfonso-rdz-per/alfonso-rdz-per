@@ -11,9 +11,9 @@ Guanajuato and Querétaro, Mexico.
 
 ### 🔧 What I work on
 
-- **Full-stack web apps** — Next.js, React, TypeScript, Supabase, Vercel
-- **NFC-based products** — digital cards, dynamic redirects, guest-feedback systems
-- **Automation tools** — Python and Excel/VBA systems that replace manual,
+- **Full-stack web apps** : Next.js, React, TypeScript, Supabase, Vercel
+- **NFC-based products** : digital cards, dynamic redirects, guest-feedback systems
+- **Automation tools** : Python and Excel/VBA systems that replace manual,
   spreadsheet-driven workflows for real clients
 - **Data structures & algorithms**
 
