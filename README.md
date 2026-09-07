@@ -4,9 +4,9 @@ I'm a Computer Science major who likes building things people actually use. Alon
 
 What I work on
 
-Full-stack web apps — Next.js, Supabase, Vercel
-NFC-based products — digital business cards, dynamic redirects, guest-feedback systems
-Automation tools — Python and Excel/VBA systems that replace manual, spreadsheet-driven workflows for real clients
+Full-stack web apps: Next.js, Supabase, Vercel
+NFC-based products: digital business cards, dynamic redirects, guest-feedback systems
+Automation tools: Python and Excel/VBA systems that replace manual, spreadsheet-driven workflows for real clients
 Data structures & algorithms — see the A* search project pinned below
 
 Currently building An NFC-enabled guest-feedback app for hospitality venues (bars, restaurants, nightclubs) that routes real-time ratings and metrics to managers.
